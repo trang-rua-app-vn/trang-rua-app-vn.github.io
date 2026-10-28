@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 140">
+  <ellipse cx="80" cy="128" rx="74" ry="9" fill="#C9DDB8"/>
+  <path d="M40,126 Q34,80 16,22" stroke="#93BD84" stroke-width="3.2" fill="none" stroke-linecap="round"/>
+  <path d="M49,126 Q45,76 32,28" stroke="#A5CB95" stroke-width="3.2" fill="none" stroke-linecap="round"/>
+  <path d="M58,126 Q56,72 48,34" stroke="#8AB57B" stroke-width="3.2" fill="none" stroke-linecap="round"/>
+  <path d="M67,126 Q67,80 64,40" stroke="#9CC48E" stroke-width="3.2" fill="none" stroke-linecap="round"/>
+  <path d="M76,126 Q78,76 80,22" stroke="#A9CF9A" stroke-width="3.2" fill="none" stroke-linecap="round"/>
+  <path d="M85,126 Q89,72 96,28" stroke="#93BD84" stroke-width="3.2" fill="none" stroke-linecap="round"/>
+  <path d="M94,126 Q100,80 112,34" stroke="#8AB57B" stroke-width="3.2" fill="none" stroke-linecap="round"/>
+  <path d="M103,126 Q111,76 128,40" stroke="#A5CB95" stroke-width="3.2" fill="none" stroke-linecap="round"/>
+  <ellipse cx="20" cy="30" rx="12" ry="4" fill="#B7D9A8" transform="rotate(-30 20 30)"/>
+  <ellipse cx="34" cy="24" rx="11" ry="3.6" fill="#A3CC94" transform="rotate(-10 34 24)"/>
+  <ellipse cx="52" cy="30" rx="12" ry="4" fill="#B7D9A8" transform="rotate(20 52 30)"/>
+  <ellipse cx="68" cy="26" rx="11" ry="3.6" fill="#9CC48E" transform="rotate(-25 68 26)"/>
+  <ellipse cx="86" cy="34" rx="12" ry="4" fill="#B7D9A8" transform="rotate(15 86 34)"/>
+  <ellipse cx="102" cy="28" rx="11" ry="3.6" fill="#A3CC94" transform="rotate(-15 102 28)"/>
+  <ellipse cx="118" cy="36" rx="12" ry="4" fill="#B7D9A8" transform="rotate(25 118 36)"/>
+  <ellipse cx="134" cy="30" rx="11" ry="3.6" fill="#9CC48E" transform="rotate(-20 134 30)"/>
+  <ellipse cx="28" cy="48" rx="10" ry="3.4" fill="#A3CC94" transform="rotate(30 28 48)"/>
+  <ellipse cx="60" cy="46" rx="10" ry="3.4" fill="#B7D9A8" transform="rotate(-20 60 46)"/>
+  <ellipse cx="96" cy="50" rx="10" ry="3.4" fill="#A3CC94" transform="rotate(30 96 50)"/>
+  <ellipse cx="126" cy="52" rx="10" ry="3.4" fill="#B7D9A8" transform="rotate(-30 126 52)"/>
+  <path d="M30,120 Q80,108 130,120" stroke="#B3CFA0" stroke-width="5" fill="none" stroke-linecap="round"/>
+</svg>
